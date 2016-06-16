@@ -13,6 +13,7 @@ Links to entries for the weekly ChannelFix hackathons.
 - [**@jedijulia**][6]: https://github.com/jedijulia/cf-hackathons
 - [**@jonathantumulak**][7]: https://github.com/jonathantumulak/js-canvas
 - [**@jsemearns**][8]: https://github.com/jsemearns/jscanvas
+- [**@kevcal69**][15]: https://github.com/kevcal69/hackathon1
 - [**@kiellabian**][9]: https://github.com/kiellabian/shit
 - [**@name3anad**][10]: https://github.com/name3anad/js-canvas
 - [**@ozknightwalker**][11]: https://github.com/ozknightwalker/jc-din-canvas
@@ -21,11 +22,11 @@ Links to entries for the weekly ChannelFix hackathons.
 
 # Hackathon 2 (theme: "Creative Python")
 
-- [**@daenicaa**][3], [**@chris-statzer**][13], [**@jonathantumulak**][7]:
-- [**@jayArnel**][4], [**@joegie025**][14], [**@kiellabian**][9]:
-- [**@jayzces**][5], [**@kevcal69**][15], [**@aldnav**][1]:
-- [**@ozknightwalker**][11], [**@name3anad**][10], [**@jedijulia**][6]:
-- [**@jsemearns**][8], [**@arnellebalane**][2], [**@pjpmarikit**][12]:
+- [**@daenicaa**][3], [**@chris-statzer**][13], [**@jonathantumulak**][7]: https://github.com/jonathantumulak/Gooey-Conversations-Dungeons :crown:
+- [**@jayArnel**][4], [**@joegie025**][14], [**@kiellabian**][9]: https://github.com/kiellabian/modest-market-name
+- [**@jayzces**][5], [**@kevcal69**][15], [**@aldnav**][1]: https://github.com/aldnav/cloudyhandicapgov
+- [**@ozknightwalker**][11], [**@name3anad**][10], [**@jedijulia**][6]: https://github.com/ozknightwalker/python-imagine
+- [**@jsemearns**][8], [**@arnellebalane**][2], [**@pjpmarikit**][12]: https://github.com/jsemearns/pacman-pygame
 
 
 [1]: https://github.com/aldnav
