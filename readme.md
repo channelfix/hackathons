@@ -3,7 +3,7 @@
 Links to entries for the weekly ChannelFix hackathons.
 
 
-# Hackathon 1 (theme: **JS Canvas**)
+# Hackathon 1 (theme: JS Canvas)
 
 - [**@aldnav**][1]: https://github.com/aldnav/musiclookslike
 - [**@arnellebalane**][2]: https://github.com/arnellebalane/sliding-puzzle :crown:
@@ -19,6 +19,15 @@ Links to entries for the weekly ChannelFix hackathons.
 - [**@pjpmarikit**][12]: https://github.com/pjpmarikit/html5-canvas
 
 
+# Hackathon 2 (theme: "Creative Python")
+
+- [**@daenicaa**][3], [**@chris-statzer**][13], [**@jonathantumulak**][7]:
+- [**@jayArnel**][4], [**@joegie025**][14], [**@kiellabian**][9]:
+- [**@jayzces**][5], [**@kevcal69**][15], [**@aldnav**][1]:
+- [**@ozknightwalker**][11], [**@name3anad**][10], [**@jedijulia**][6]:
+- [**@jsemearns**][8], [**@arnellebalane**][2], [**@pjpmarikit**][12]:
+
+
 [1]: https://github.com/aldnav
 [2]: https://github.com/arnellebalane
 [3]: https://github.com/daenicaa
@@ -31,3 +40,6 @@ Links to entries for the weekly ChannelFix hackathons.
 [10]: https://github.com/name3anad
 [11]: https://github.com/ozknightwalker
 [12]: https://github.com/pjpmarikit
+[13]: https://github.com/chris-statzer
+[14]: https://github.com/joegie025
+[15]: https://github.com/kevcal69
