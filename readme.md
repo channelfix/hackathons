@@ -29,6 +29,16 @@ Links to entries for the weekly ChannelFix hackathons.
 - [**@jsemearns**][8], [**@arnellebalane**][2], [**@pjpmarikit**][12]: https://github.com/jsemearns/pacman-pygame
 
 
+# Hackathon 3 (theme: "Meme Generator")
+
+- [**@aldnav**][1], [**@chris-statzer**][13]: https://github.com/chris-statzer/memeomatic
+- [**@kiellabian**][9], [**@joegie025**][14]: https://github.com/kiellabian/meme :crown:
+- [**@jonathantumulak**][7], [**@kevcal69**][15]: https://github.com/jonathantumulak/node-hackathon
+- [**@jayzces**][5], [**@jayArnel**][4]: https://github.com/jayArnel/meme-generator-nodejs
+- [**@name3anad**][10], [**@jedijulia**][6]: https://github.com/jedijulia/meme-generator
+- [**@jsemearns**][8], [**@arnellebalane**][2]: https://github.com/arnellebalane/memegur
+
+
 [1]: https://github.com/aldnav
 [2]: https://github.com/arnellebalane
 [3]: https://github.com/daenicaa
