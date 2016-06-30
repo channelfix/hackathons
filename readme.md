@@ -39,6 +39,24 @@ Links to entries for the weekly ChannelFix hackathons.
 - [**@jsemearns**][8], [**@arnellebalane**][2]: https://github.com/arnellebalane/memegur
 
 
+# Hackathon 4 (theme: "APIs")
+
+- [**@aldnav**][1]:  https://github.com/aldnav/timelogbuddy :crown:
+- [**@arnellebalane**][2]: https://github.com/arnellebalane/ms-vision
+- [**@daenicaa**][3]: https://github.com/daenicaa/xml
+- [**@jayArnel**][4]: https://github.com/jayArnel/whos-that-pokemon
+- [**@jayzces**][5]: https://github.com/jayzces/weather-reporter
+- [**@joegie025**][14]: https://github.com/joegie025/individual-api
+- [**@jonathantumulak**][7]: https://github.com/jonathantumulak/weathergram
+- [**@jsemearns**][8]: https://github.com/jsemearns/socmen
+- [**@kevcal69**][15]: https://github.com/kevcal69/resto
+- [**@kiellabian**][9]: https://github.com/kiellabian/teleporter
+- [**@name3anad**][10]: https://github.com/name3anad/nytimes-api
+- [**@ozknightwalker**][11]: https://github.com/ozknightwalker/api-app
+- [**@pjpmarikit**][12]: _no repository yet_
+
+
+
 [1]: https://github.com/aldnav
 [2]: https://github.com/arnellebalane
 [3]: https://github.com/daenicaa
