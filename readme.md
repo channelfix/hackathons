@@ -56,7 +56,7 @@ Links to entries for the weekly ChannelFix hackathons.
 - [**@pjpmarikit**][12]: _no repository yet_
 
 
-# Hackathon 4 (theme: "Creative Programming")
+# Hackathon 5 (theme: "Creative Programming")
 
 - [**@kiellabian**][9], [**@ozknightwalker**][11], [**@jsemearns**][8]: https://github.com/jsemearns/magicalphoneportrait
 - [**@jonathantumulak**][7], [**@aldnav**][1], [**@name3anad**][10]: https://github.com/name3anad/crazy-message-money :crown:
